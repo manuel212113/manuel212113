@@ -19,6 +19,9 @@ My name is Manuel Toro and I'm a  backend developer! 👋
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Java](https://img.shields.io/badge/-Java-red?logo=Java&style=flat-square)
+
+## 💬 Information
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=manuel212113&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
