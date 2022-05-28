@@ -23,6 +23,6 @@ My name is Manuel Toro and I'm a  backend developer! 👋
 
 ## 💬 Information
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=manuel212113&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=manuel212113&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=manuel212113&theme=blue-green)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=manuel212113&theme=radical)
