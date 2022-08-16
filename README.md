@@ -25,6 +25,6 @@ My name is Manuel Toro and I'm a  backend developer! 👋
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=manuel212113&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:100px;" src="https://media.discordapp.net/attachments/975923109548937240/1008999611043676161/download20220802032010.png?width=507&height=507">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:200px;" src="https://media.discordapp.net/attachments/975923109548937240/1008999611043676161/download20220802032010.png?width=507&height=507">
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=manuel212113&theme=radical)
