@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-My name is Manuel Toro and I'm a  backend developer! 👋
+My name is Manuel Toro and I'm a  frontend developer! 👋
 
 - 🔭 I’m currently working on my carrer
 - 🌱 I’m currently learning Angular
