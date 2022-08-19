@@ -1,9 +1,10 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://google.com)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://google.com) 
 <h1 align="center">Hi 👋, I'm Manuel Toro</h1>
+
+<h3 align="left">A passionate frontend developer from Chile</h3>
+
 <p align="right">
 <kbd align="center"> <img align="center"  src="https://avatars.githubusercontent.com/u/60745355?v=4" width="200" height="200"/></kbd> </p>
-
-<h3 align="center">A passionate frontend developer from Chile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manuel212113&label=Profile%20views&color=0eb4a9&style=plastic" alt="manuel212113" /> </p>
 
