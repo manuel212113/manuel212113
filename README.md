@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Manuel Toro</h1>
 <h3 align="center">A passionate frontend developer from chile</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/60745355/185537988-03e29fb9-c66f-45d1-b036-94293a1235e5.gif">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/60745355/185537988-03e29fb9-c66f-45d1-b036-94293a1235e5.gif">
 
 
 
