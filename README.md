@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manuel Toro</h1>
-<kbd> <img align="center"  src="https://avatars.githubusercontent.com/u/60745355?v=4" width="200" height="200"/></kbd>
+<kbd align="center"> <img align="center"  src="https://avatars.githubusercontent.com/u/60745355?v=4" width="200" height="200"/></kbd>
 
 <h3 align="center">A passionate frontend developer from Chile</h3>
 
