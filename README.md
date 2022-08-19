@@ -1,14 +1,15 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://google.com) 
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Manuel Toro</h1>
+<h3 align="center">A passionate frontend developer from chile</h3>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/60745355/185537988-03e29fb9-c66f-45d1-b036-94293a1235e5.gif">
 
-<h3 align="left">A passionate frontend developer from Chile</h3>
 
-<p align="right">
-<kbd align="center"> <img align="center"  src="https://avatars.githubusercontent.com/u/60745355?v=4" width="200" height="200"/></kbd> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manuel212113&label=Profile%20views&color=0eb4a9&style=plastic" alt="manuel212113" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manuel212113&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manuel212113&theme=onedark" alt="manuel212113" /></a> </p>
+
+
+
 
 - 🌱 I’m currently learning **React**
 
