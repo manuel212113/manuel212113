@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manuel212113&label=Profile%20views&color=0eb4a9&style=plastic" alt="manuel212113" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manuel212113" alt="manuel212113" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manuel212113&theme=onedark" alt="manuel212113" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 
