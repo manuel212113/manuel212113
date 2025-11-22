@@ -1,7 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead]()<img width="3712" height="1152" alt="Gemini_Generated_Image_zfaiq3zfaiq3zfai" src="https://github.com/user-attachments/assets/06893852-aff9-4902-81fb-233fc142f200" />
+](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Manuel Toro</h1>
-<h3 align="center">A passionate frontend developer from chile</h3>
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/60745355/185537988-03e29fb9-c66f-45d1-b036-94293a1235e5.gif">
+<h3 align="center">A passionate fullstack developer from chile</h3>
+<img align="right" alt="Coding" width="300" src="https://nexumtechno.online/images/banner/logo_peque%C3%B1o_blanco.png">
 
 
 
@@ -11,13 +12,13 @@
 
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Angular**
 
 - 👯 I’m looking to collaborate on **C# , Java, VueJs**
 
 - 👨‍💻 All of my projects are available at [https://manueltoroportafolio.000webhostapp.com/](https://manueltoroportafolio.000webhostapp.com/)
 
-- 💬 Ask me about **android**
+- 💬 Ask me about **android** , **C# .NET**
 
 - 📫 How to reach me **manueltoro212113@gmail.com**
 
