@@ -1,5 +1,4 @@
-[![MasterHead]()<img width="3712" height="1152" alt="Gemini_Generated_Image_zfaiq3zfaiq3zfai" src="https://github.com/user-attachments/assets/06893852-aff9-4902-81fb-233fc142f200" />
-](https://rishavchanda.io)
+<img width="3712" height="1152" alt="Gemini_Generated_Image_zfaiq3zfaiq3zfai" src="https://github.com/user-attachments/assets/06893852-aff9-4902-81fb-233fc142f200" />
 <h1 align="center">Hi 👋, I'm Manuel Toro</h1>
 <h3 align="center">A passionate fullstack developer from chile</h3>
 <img align="right" alt="Coding" width="300" src="https://nexumtechno.online/images/banner/logo_peque%C3%B1o_blanco.png">
